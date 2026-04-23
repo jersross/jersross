@@ -6,7 +6,7 @@ I am a technical analyst and aspiring data scientist with a background in Inform
 ---
 
 ### 🛠️ Technical Toolkit
-*   **Languages:** Python (Pandas, NumPy, Matplotlib), R, SQL (MySQL, MariaDB), PHP, SAS
+*   **Languages:** Python (Pandas, NumPy, Matplotlib), SQL (MySQL, MariaDB), PHP
 *   **Data Viz:** Tableau, Power BI, Python Visualizations
 *   **Software & DevOps:** Git, Azure DevOps, Flask/Jinja, Linux, Agile/SDLC
 *   **Certifications:** Google AI Essentials, Google Prompt Engineering, DataCamp SQL Fundamentals (In-Progress)
