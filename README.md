@@ -26,6 +26,6 @@ I am a technical analyst and aspiring data scientist with a background in Inform
 ---
 
 ### 📫 Let's Connect
-*   **LinkedIn:** [:www.linkedin.com/in/jered-ross](www.linkedin.com/in/jered-ross)
+*   **LinkedIn:** [www.linkedin.com/in/jered-ross](www.linkedin.com/in/jered-ross)
 *   **Email:** [jeredross1@gmail.com](mailto:jeredross1@gmail.com)
 *   **Location:** Soon to be Raleigh, NC - Currently: Melbourne, FL
