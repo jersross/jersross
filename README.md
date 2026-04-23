@@ -1,14 +1,19 @@
 # 👋 Hi, I'm Jered Ross 
 
 ### 📊 Business Analytics Graduate Student @ Purdue University
-Technical analyst and aspiring data scientist specializing in bridging the gap between technical data engineering and strategic business decision-making with a focus on **AI/ML**.
+I am a data-driven professional focused on bridging the gap between complex data and actionable business strategy. This profile serves as a portfolio of my work in analytics, AI, and engineering.
 
 ---
 
 ### 💡 About Me
-With a background in **Informatics** from Indiana University, I blend analytical skills with a commitment to operational excellence. My experience ranges from driving technical solutions as an Application Analyst to honing customer service agility in fast-paced environments. I am passionate about leveraging data-driven insights to ensure seamless IT operations and elevated customer experiences.
+With a background in **Informatics** from Indiana University, I blend analytical skills with a commitment to operational excellence. My experience ranges from driving technical and operational solutions as an Application Analyst to honing customer service agility in fast-paced environments. I am passionate about leveraging data-driven insights to ensure seamless IT operations and elevated customer experiences.
 
 ---
+
+### 🚀 Technical Interests 
+*   **Artificial Intelligence:** Developing predictive models and exploring generative AI applications.
+*   **Analytics & Data Storytelling:** Transforming complex datasets into clear, actionable insights through interactive dashboards and advanced statistical visualizations.
+*   **Data Engineering:** Building robust pipelines and managing scalable data architectures.
 
 ### 🛠️ Technical Toolkit
 *   **Languages:** Python (Pandas, NumPy, Matplotlib), R, SQL (MySQL, MariaDB), PHP, SAS
