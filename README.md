@@ -20,7 +20,12 @@ I am a technical analyst and aspiring data scientist with a background in Inform
 ---
 
 ### 💼 Professional Snapshot
-*   **Technical Application Analyst @ Precise Systems:** Improving troubleshooting efficiency by 40% through data-driven requirement documentation and SQL-based reporting.
+*   **Technical Application Analyst @ Precise Systems:**
+*       •	Analyzed business processes and user workflows across 9,000+ end users, translating requirements into structured user stories and system enhancements in Azure DevOps
+        •	Acted as a liaison between business users and development teams, ensuring alignment on system functionality, issue resolution, and feature prioritization
+        •	Resolved 3,500+ support cases with a 1.9-day average resolution time, troubleshooting system issues and maintaining detailed documentation of fixes and process updates
+        •	Supported system optimization by analyzing ticket trends and implementing knowledge base and workflow improvements, reducing resolution time by 40.3% and improving overall support efficiency
+
 *   **Information Security Intern @ REN-ISAC:** Developed incident response documentation and standardized IT asset reporting workflows.
 
 ---
