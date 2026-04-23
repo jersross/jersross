@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jered Ross 
 
 ### 📊 Business Analytics Graduate Student @ Purdue University
-I am a data-driven professional focused on bridging the gap between complex data and actionable business strategy. This profile serves as a portfolio of my work in analytics, AI, and engineering.
+I am a **data-driven professional** focused on bridging the gap between complex data and actionable business strategy. This profile serves as a portfolio of my work in analytics, AI, and engineering.
 
 ---
 
