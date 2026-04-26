@@ -42,7 +42,7 @@ With a background in **Informatics** from Indiana University, I blend analytical
 ---
 
 ### 🚀 Key Projects
-*   **[Insurance Claims Analysis](https://github.com):** Python-based analysis of 2,000+ records to evaluate claim patterns and policy pricing impacts.
+*   **[Automation and Analytics Projects](https://github.com/jersross/Python-Business-Analytics-Purdue):** Python-based analysis of 2,000+ records to evaluate claim patterns and policy pricing impacts.
 *   **[Housing Platform Development](https://github.com):** A full-stack information system using MySQL and PHP with full CRUD functionality.
 
 ---
