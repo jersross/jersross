@@ -45,6 +45,7 @@ With a background in **Informatics** from Indiana University, I blend analytical
 *   **[Automation and Analytics Projects](https://github.com/jersross/Python-Business-Analytics-Purdue):** Python-based analysis of 2,000+ records to evaluate claim patterns and policy pricing impacts.
 *   **[Housing Platform Development](https://github.com/jersross/Information-Systems-Development):** A full-stack information system using MySQL and PHP with full CRUD functionality.
 *   **[Business Analytics Case Studies](https://github.com/jersross/Business-Analytics-Case-Studies)** A collection of business analytics case studies applying decision analysis, financial modeling, and statistical inference to real-world problems.
+*   **[NovaRetail Analytical Dashboard](https://github.com/jersross/novaretail-dashboard/)** A analytical dashboard deployed completely using AI tools, Streamlit, Python, and Github. 
 
 ---
 
