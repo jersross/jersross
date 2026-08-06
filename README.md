@@ -46,7 +46,7 @@ With a background in **Informatics** from Indiana University, I blend analytical
 *   **[Housing Platform Development](https://github.com/jersross/Information-Systems-Development):** A full-stack information system using MySQL and PHP with full CRUD functionality.
 *   **[Business Analytics Case Studies](https://github.com/jersross/Business-Analytics-Case-Studies)** A collection of business analytics case studies applying decision analysis, financial modeling, and statistical inference to real-world problems.
 *   **[NovaRetail Analytical Dashboard](https://github.com/jersross/novaretail-dashboard/)** A analytical dashboard deployed completely using AI tools, Streamlit, Python, and Github. 
-
+*   **[IBM HR Analytics Application](https://github.com/jersross/IBM-HR-Analytics.git)** Unsupervised K-Means segmentation of IBM's HR workforce with an interactive Gradio dashboard for attrition risk and retention scenario simulation.
 ---
 
 ### 📫 Let's Connect
