@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jered Ross 
 
 ### 📊 Business Analytics Graduate Student @ Purdue University
-I am a data-driven professional focused on **translating complex data into actionable business insights**. This portfolio highlights my work in analytics, decision modeling, and application development using tools such as Python, Excel, and modern web technologies.
+I am a data-driven professional focused on **translating complex data into actionable business insights**. This portfolio highlights my work in analytics, decision modeling, and application development using tools such as Python, AWS, Tableau, Excel, and modern web technologies.
 
 ---
 
@@ -52,4 +52,4 @@ With a background in **Informatics** from Indiana University, I blend analytical
 ### 📫 Let's Connect
 *   **LinkedIn:** [linkedin.com/in/jered-ross](https://www.linkedin.com/in/jered-ross)
 *   **Email:** [jeredross1@gmail.com](mailto:jeredross1@gmail.com)
-*   **Location:** Soon to be Raleigh, NC - Currently: Melbourne, FL
+*   **Location:** Raleigh, NC
