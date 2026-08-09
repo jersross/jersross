@@ -1,4 +1,4 @@
-h1 align="center">Hi, I'm Jered Ross 👋</h1>
+<h1 align="center">Hi, I'm Jered Ross 👋</h1>
 <h3 align="center">Business Analytics Graduate Student @ Purdue University</h3>
 
 <p align="center">
