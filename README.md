@@ -80,7 +80,7 @@ A full-stack information system with full CRUD functionality, built with MySQL a
 **Skills:** PHP · MySQL · HTML/CSS
 [![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/jersross/Information-Systems-Development)
 
-**See the [full portfolio](https://github.com/jersross/portfolio) for additional case studies, automation/analytics work, and AWS labs.**
+**See the [full portfolio](https://github.com/jersross/jersross/blob/main/PORTFOLIO.md) for additional case studies, automation/analytics work, and AWS labs.**
 
 ---
 
