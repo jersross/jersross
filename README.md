@@ -8,7 +8,7 @@ h1 align="center">Hi, I'm Jered Ross 👋</h1>
   <a href="https://github.com/jersross/portfolio"><img src="https://img.shields.io/badge/Full_Portfolio-1a1a2e?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-I'm a data-driven professional focused on **translating complex data into actionable business insights**. This profile highlights my work in analytics, decision modeling, and application development — for the complete project catalog, see my **[full portfolio](https://github.com/jersross/portfolio)**.
+I'm a data-driven professional focused on **translating complex data into actionable business insights**. This profile highlights my work in analytics, decision modeling, and application development. For my complete project catalog, see my **[full portfolio](https://github.com/jersross/portfolio)**.
 
 ---
 
