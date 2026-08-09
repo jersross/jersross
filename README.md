@@ -5,10 +5,10 @@ h1 align="center">Hi, I'm Jered Ross 👋</h1>
   <a href="https://www.linkedin.com/in/jered-ross"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:jeredross1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://raw.githubusercontent.com/jersross/jersross/main/docs/Jered_Ross_Resume.pdf" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Resume-View%2FDownload-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
-  <a href="https://github.com/jersross/portfolio"><img src="https://img.shields.io/badge/Full_Portfolio-1a1a2e?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/jersross/jersross/blob/main/PORTFOLIO.md"><img src="https://img.shields.io/badge/Full_Portfolio-1a1a2e?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-I'm a data-driven professional focused on **translating complex data into actionable business insights**. This profile highlights my work in analytics, decision modeling, and application development. For my complete project catalog, see my **[full portfolio](https://github.com/jersross/portfolio)**.
+I'm a data-driven professional focused on **translating complex data into actionable business insights**. This profile highlights my work in analytics, decision modeling, and application development. For my complete project catalog, see my **[full portfolio](https://github.com/jersross/jersross/blob/main/PORTFOLIO.md)**.
 
 ---
 
