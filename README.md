@@ -16,7 +16,7 @@ I'm a data-driven professional focused on **translating complex data into action
 
 With a background in **Informatics** from Indiana University and hands-on experience as a Technical Application Analyst supporting a 9,000+ user DoD-facing enterprise platform, I blend analytical rigor with operational execution. I'm currently pursuing an M.S. in Business Analytics at Purdue, sharpening a toolkit centered on Python, SQL, AWS, and Tableau. I'm especially interested in turning messy, real-world data into models and dashboards that people who aren't analysts can actually use to make decisions.
 
-**Currently working on:** Purdue's Big Data Analytics in the Cloud coursework (AWS-based pipelines) and expanding this portfolio with new applied ML projects.
+**Currently working on:** Purdue's Big Data Analytics in the Cloud and AI for Business Analytics coursework (AWS-based pipelines) and expanding this portfolio with new applied ML projects. Specifically, I am working on building an application to predict song popularity based on metrics that Spotify already tracks, such as energy, tempo, and acoustic level. 
 
 ---
 
