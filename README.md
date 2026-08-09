@@ -60,7 +60,7 @@ Developed incident response documentation aligned with NIST/CIS frameworks and s
 
 Three of the following were built for the same Purdue analytics course, each pairing a modeling technique with a deployed interactive app.
 
-**[Airbnb Arbitrage Profitability Analytics — Gradio App](https://github.com/jersross/Airbnb-Arbitrage-Profitability-Analytics-Application/tree/main)**
+**[Airbnb Arbitrage Profitability Analytics — Gradio App](https://github.com/jersross/Airbnb-Arbitrage-Profitability-Analytics-Application)**
 Consulting-style engagement for a hypothetical NYC Airbnb rental arbitrage operator: data validation/cleaning pipeline, exploratory analysis of pricing drivers by borough, and a Multiple Linear Regression model (raw + standardized coefficients) predicting nightly price. Deployed as a two-tab Gradio app — a filterable Market Dashboard and a Prediction Simulator that flags candidate listings above/below a $120/night profitability threshold with a confidence-based recommendation.
 **Skills:** Python · Pandas · scikit-learn · Matplotlib/Seaborn · Gradio
 [![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/jersross/airbnb-arbitrage-analytics)
