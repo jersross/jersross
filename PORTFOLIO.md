@@ -1,6 +1,6 @@
 # Jered Ross — Project Portfolio
 
-Full catalog of analytics, data engineering, and application-development projects. For background, education, and experience, see my [profile README](https://github.com/jersross/jersross).
+Full catalog of analytics, data engineering, and application-development projects. For background, education, and experience, see my [profile README](https://github.com/jersross).
 
 <a href="https://raw.githubusercontent.com/jersross/jersross/main/docs/Jered_Ross_Resume.pdf" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Resume-View%2FDownload-2E7D32?style=for-the-badge"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jered-ross)
