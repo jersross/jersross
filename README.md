@@ -1,55 +1,92 @@
-# 👋 Hi, I'm Jered Ross 
+<h1 align="center">Hi, I'm Jered Ross 👋</h1>
+<h3 align="center">Business Analytics Graduate Student @ Purdue University</h3>
 
-### 📊 Business Analytics Graduate Student @ Purdue University
-I am a data-driven professional focused on **translating complex data into actionable business insights**. This portfolio highlights my work in analytics, decision modeling, and application development using tools such as Python, AWS, Tableau, Excel, and modern web technologies.
+<p align="center">
+  <a href="https://www.linkedin.com/in/jered-ross"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jeredross1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="docs/Jered_Ross_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View%2FDownload-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
+  <a href="https://github.com/jersross/portfolio"><img src="https://img.shields.io/badge/Full_Portfolio-1a1a2e?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+I'm a data-driven graduate student focused on **translating complex data into actionable business insights**. This profile highlights my work in analytics, decision modeling, and application development. For my complete project catalog, see my **[full portfolio](https://github.com/jersross/portfolio)**.
 
 ---
 
 ### 💡 About Me
-With a background in **Informatics** from Indiana University, I blend analytical skills with a commitment to operational excellence. My experience ranges from driving technical and operational solutions as an Application Analyst to honing customer service agility in fast-paced environments. I am passionate about leveraging data-driven insights to ensure seamless IT operations and elevated customer experiences.
+
+With a background in **Informatics** from Indiana University and hands-on experience as a Technical Application Analyst supporting a 9,000+ user DoD-facing enterprise platform, I blend analytical rigor with operational execution. I'm currently pursuing an M.S. in Business Analytics at Purdue, sharpening a toolkit centered on Python, SQL, AWS, and Tableau. I'm especially interested in turning messy, real-world data into models and dashboards that people who aren't analysts can actually use to make decisions.
+
+**Currently working on:** Purdue's Big Data Analytics in the Cloud coursework (AWS-based pipelines) and expanding this portfolio with new applied ML projects.
 
 ---
 
-### 🚀 Technical Interests 
-*   **Artificial Intelligence:** Developing predictive models and exploring generative AI applications.
-*   **Analytics & Data Storytelling:** Transforming complex datasets into clear, actionable insights through interactive dashboards and advanced statistical visualizations.
-*   **Data Engineering:** Building robust pipelines and managing scalable data architectures.
+### 🎓 Education
 
-### 🛠️ Technical Toolkit
-*   **Languages:** Python (Pandas, NumPy, Matplotlib), R, SQL (MySQL, MariaDB), PHP, SAS
-*   **Data Viz:** Tableau, Power BI, Python Visualizations
-*   **Software & DevOps:** Git, Azure DevOps, Flask/Jinja, Linux, Agile/SDLC
-*   **Certifications:** Google AI Essentials, Google Prompt Engineering, DataCamp SQL Fundamentals (In-Progress)
+| Degree | Institution | Year |
+|---|---|---|
+| M.S. Business Analytics (AI/ML Focus) | Purdue University, Daniels School of Business | Expected May 2027 |
+| B.S. Informatics, Business Minor | Indiana University, Luddy School of Informatics | Completed |
+
+---
+
+### 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=flat-square&logo=servicenow&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ---
 
 ### 💼 Professional Experience
 
-#### **Technical Application Analyst | Precise Systems** 
-*Oct 2023 – Feb 2026*
-*   **Product Management & Support:** Collaborated with cross-functional stakeholders to define and prioritize user stories and feature enhancements in Azure DevOps.
-*   **Requirements Documentation:** Analyzed support trends to develop ServiceNow knowledge base enhancements, improving troubleshooting efficiency by 40.3%.
-*   **Business Analysis:** Translated business needs from 9,000+ end users into actionable DevOps work items.
-*   **Data Analysis & Reporting:** Leveraged SQL-based analysis to fulfill complex reporting requests and data calls.
+**Technical Application Analyst | Precise Systems** — *Oct 2023 – Feb 2026*
+Translated the needs of 9,000+ end users into ServiceNow and Azure DevOps work items; analyzed support trends to improve troubleshooting efficiency by 40.3%; supported ad-hoc reporting via SQL.
 
-#### **Information Security Management Intern | REN-ISAC** 
-*Oct 2021 – May 2022*
-*   **Collaborative Project Management:** Developed incident response documentation aligned with NIST and CIS cybersecurity frameworks.
-*   **Security Documentation:** Prepared structured reports to identify risks and support data-driven mitigation strategies.
-*   **Analytical Reporting:** Created standardized workflows for IT asset reporting, improving data accuracy and consistency.
-*   **Strategic Planning:** Presented findings to stakeholders to support organizational security governance.
+**Information Security Management Intern | REN-ISAC** — *Oct 2021 – May 2022*
+Developed incident response documentation aligned with NIST/CIS frameworks and standardized IT asset reporting workflows to support organizational security governance.
 
 ---
 
-### 🚀 Key Projects
-*   **[Automation and Analytics Projects](https://github.com/jersross/Python-Business-Analytics-Purdue):** Python-based analysis of 2,000+ records to evaluate claim patterns and policy pricing impacts.
-*   **[Housing Platform Development](https://github.com/jersross/Information-Systems-Development):** A full-stack information system using MySQL and PHP with full CRUD functionality.
-*   **[Business Analytics Case Studies](https://github.com/jersross/Business-Analytics-Case-Studies)** A collection of business analytics case studies applying decision analysis, financial modeling, and statistical inference to real-world problems.
-*   **[NovaRetail Analytical Dashboard](https://github.com/jersross/novaretail-dashboard/)** A analytical dashboard deployed completely using AI tools, Streamlit, Python, and Github. 
-*   **[IBM HR Analytics Application](https://github.com/jersross/IBM-HR-Analytics.git)** Unsupervised K-Means segmentation of IBM's HR workforce with an interactive Gradio dashboard for attrition risk and retention scenario simulation.
+### 🚀 Featured Projects
+
+Three of the following were built for the same Purdue analytics course, each pairing a modeling technique with a deployed interactive app.
+
+**[Airbnb Arbitrage Profitability Analytics — Gradio App](https://github.com/jersross/airbnb-arbitrage-analytics)**
+Consulting-style engagement for a hypothetical NYC Airbnb rental arbitrage operator: data validation/cleaning pipeline, exploratory analysis of pricing drivers by borough, and a Multiple Linear Regression model (raw + standardized coefficients) predicting nightly price. Deployed as a two-tab Gradio app — a filterable Market Dashboard and a Prediction Simulator that flags candidate listings above/below a $120/night profitability threshold with a confidence-based recommendation.
+**Skills:** Python · Pandas · scikit-learn · Matplotlib/Seaborn · Gradio
+[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/jersross/airbnb-arbitrage-analytics)
+
+**[NovaRetail Analytical Dashboard](https://github.com/jersross/novaretail-dashboard/)**
+Interactive customer intelligence dashboard surfacing revenue drivers and at-risk customer segments, built with Python and Streamlit and deployed via Streamlit Community Cloud with GitHub-based CI/CD.
+**Skills:** Python · Pandas · Plotly · Streamlit · Git
+[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/jersross/novaretail-dashboard/)
+
+**[IBM HR Analytics Application](https://github.com/jersross/IBM-HR-Analytics.git)**
+Unsupervised K-Means segmentation of IBM's HR workforce (1,470 employees) with elbow/silhouette model evaluation, business-labeled cluster profiling, and an interactive scenario simulator for attrition risk and retention planning.
+**Skills:** Python · scikit-learn · K-Means Clustering · Gradio
+[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/jersross/IBM-HR-Analytics.git)
+
+**[Housing Platform Development](https://github.com/jersross/Information-Systems-Development)**
+A full-stack information system with full CRUD functionality, built with MySQL and PHP.
+**Skills:** PHP · MySQL · HTML/CSS
+[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/jersross/Information-Systems-Development)
+
+**See the [full portfolio](https://github.com/jersross/portfolio) for additional case studies, automation/analytics work, and AWS labs.**
+
 ---
 
-### 📫 Let's Connect
-*   **LinkedIn:** [linkedin.com/in/jered-ross](https://www.linkedin.com/in/jered-ross)
-*   **Email:** [jeredross1@gmail.com](mailto:jeredross1@gmail.com)
-*   **Location:** Raleigh, NC
+### 📫 Contact
+
+- **Email:** [jeredross1@gmail.com](mailto:jeredross1@gmail.com)
+- **LinkedIn:** [linkedin.com/in/jered-ross](https://www.linkedin.com/in/jered-ross)
+- **Resume:** [Download PDF](docs/Jered_Ross_Resume.pdf)
+- **Location:** Raleigh, NC
